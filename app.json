@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Intellifyp",
+    "slug": "Intellifyp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Logo.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashscreen.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splashscreen.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Logo.jpg"
+    }
+  }
+}
