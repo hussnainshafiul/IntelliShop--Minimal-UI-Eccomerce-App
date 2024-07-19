@@ -9,13 +9,7 @@ import 'firebase/storage' //to access firebase storage
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyBtXpMf7ECv0qfTv1X6Ijhwa0qNLIItrgk",
-  authDomain: "intellishop-37949.firebaseapp.com",
-  projectId: "intellishop-37949",
-  storageBucket: "intellishop-37949.appspot.com",
-  messagingSenderId: "681136663061",
-  appId: "1:681136663061:web:06932126010ecbc82cfc1c",
-  measurementId: "G-Y8TT0BG85N"
+  //add your firebase configuration
 }
 
 if (!firebase.apps.length)
